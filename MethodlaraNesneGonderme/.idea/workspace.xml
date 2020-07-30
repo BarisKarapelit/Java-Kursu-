@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb938e2a-91ac-4ae5-9102-e8046643cf4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baris/Icon.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baris/Icon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/baris/icos/icons8-go-back-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baris/icos/GeometrikSekiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baris/icos/Kare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MethodlaraNesneGonderme/com/baris/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MethodlaraNesneGonderme/com/baris/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/baris/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baris/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Icon" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Icon" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Icon" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +106,8 @@
       <updated>1596044180208</updated>
       <workItem from="1596044186336" duration="4109000" />
       <workItem from="1596050239064" duration="1610000" />
+      <workItem from="1596136547571" duration="113000" />
+      <workItem from="1596136699254" duration="1016000" />
     </task>
     <servers />
   </component>
@@ -110,9 +118,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1596059174991">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="612" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1596147426617">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="612" y="182" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596147426616" />
     <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596059174991" />
     <state x="2609" y="311" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596046841556">
       <screen x="1920" y="0" width="1920" height="1040" />
